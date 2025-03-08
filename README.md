@@ -2,7 +2,7 @@
 Gym supplements enhance fitness, aiding performance, recovery, and nutrition. Rising demand for protein powders and pre-workouts reflects health awareness, but concerns about misuse highlight the need for regulation. This project analyzes sales data across segments and regions to reveal market trends.
 
 # Dasboard Interaction - 
-<a href = ""
+<a href = "https://github.com/alanmanoj007/Excel-Project-Gym-Supplements1/blob/main/Excel%20Project%20Gym%20Supplements1.xlsx">Dasboard</a>
 
 ## Key Factors  
 - Sales & profit data, customer segments (Wholesale, Retail, Online)  
@@ -31,3 +31,7 @@ Visualizes total sales, profits, and segment performance. Highlights top product
 
 ## Conclusion  
 Retail & Online sales show strong growth. Refining discounts and focusing on top products can boost profitability and market reach.
+
+
+# DASBOARD IMAGE
+![Screenshot 2025-03-08 162741](https://github.com/user-attachments/assets/8b84b0c4-2d8d-4af2-9470-4949717004fb)
